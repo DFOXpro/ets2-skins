@@ -2,8 +2,9 @@ SiiNunit
 {
 accessory_paint_job_data: amaama_b.scania.s_2016.paint_job
 {
-@include "example_a_b_settings.sui"
+@include "amaama_a_b_settings.sui"
 	suitable_for[]: "normal.scania.s_2016.cabin"
 	paint_job_mask: "/vehicle/truck/upgrade/paintjob/scania_s_2016/amaama/cabine.tobj"
 }
 }
+
