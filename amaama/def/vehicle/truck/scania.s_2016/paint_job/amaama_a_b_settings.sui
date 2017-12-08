@@ -1,0 +1,19 @@
+	name: "Amaama to Inazuma"
+    price: 3000
+    unlock: 0
+	icon: "amaama_paint_job_icon"
+    airbrush: true
+    flipflake: true
+    base_color: (0.514918, 0.491021, 0.462077)
+	flip_color: (0.036889, 0.034340, 0.029557)
+	flake_color: (1.000000, 0.947307, 0.846873)
+    flip_strength: 1.3
+    flake_uvscale: 32.0
+    flake_density: 0.8
+    flake_shininess: 30.0
+    flake_clearcoat_rolloff: 4.5
+    flake_noise: "/material/ui/accessory/amaama_flake_pattern.tobj"
+    base_color_locked: false
+    flip_color_locked: false
+    flake_color_locked: false
+

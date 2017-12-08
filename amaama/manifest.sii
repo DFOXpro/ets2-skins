@@ -1,0 +1,27 @@
+SiiNunit
+{
+    # ".package_name" does not matter as the dot at the beginning of the file means that this unit is anonymous. 
+    # Please keep this form to not make any conflicts with other mod packages (name collisions).
+    mod_package : .amaama {
+
+        # Package version can be any string with any length.
+        package_version: "0.1.0"
+
+        # Display name can be any string with any length.
+        display_name: "Amaama to Inazuma Scania S Paint-Job"
+
+        # Author can be any string with any length.
+        author: "DFOXpro"
+
+        # Categories is an array of strings.
+        #category[]: "Trailer"
+        category[]: "paint_job"
+
+        # Icon inside the root directory of the mod.
+        icon: "sample_mod.jpg"
+
+        # Description file inside the root directory of the mod.
+        description_file: "mod_description.txt"
+    }
+}
+
