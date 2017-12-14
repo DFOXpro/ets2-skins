@@ -12,7 +12,9 @@
 	flake_clearcoat_rolloff: 4.500000
 	flake_color: (0.800000, 0.800000, 0.080000)
 	flake_color_locked: false
+	# Custom flakes fail to load
 	flake_noise: "/vehicle/truck/upgrade/paintjob/flake_pattern08.dlc_metallics.tobj"
+	# flake_noise: "/vehicle/truck/upgrade/paintjob/amaama_flake_pattern.tobj"
 	# flake_noise: "/material/ui/accessory/amaama_flake_pattern.tobj"
 	flake_shininess: 20.000000
 	flake_uvscale: 8.600000
