@@ -1,7 +1,7 @@
 SiiNunit
 {
 # Scania 2016 S metallic customizable skin
-    package_version_info : .latest {
+    package_version_info : .amaama {
         package_name: "amaama"
     }
 }
