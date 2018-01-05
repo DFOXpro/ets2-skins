@@ -1,7 +1,9 @@
-﻿[blue]Amaama to Inazuma Paint-Job :
+﻿Amaama to Inazuma Paint-Job
+
+﻿[blue] This mod was built and tested on the standard game version 1.30.X
 
 customizable metallic paint job for:
 
 - Scania 2016 S
 
-[red]Source @ github DFOXpro ETS2-Skins
+[red] Source @ github DFOXpro ets2-skins
